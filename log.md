@@ -3,9 +3,9 @@
 ### Day 0: November 19th , 2019
 
 
-**Today's Progress**: 
+**Today's Progress**: Did a couple basic javascript challenges on FCC as well as some c++ homework for OOP244 @ SENECA
 
-**Thoughts:** 
+**Thoughts:** had fun
 
 **Link to work:** []()
 
