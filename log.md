@@ -14,7 +14,7 @@
 ### Day 1: November 20th , 2019
 
 
-**Today's Progress**: 
+**Today's Progress**: Did more basic js challenges on FCC 
 
 **Thoughts:** 
 
