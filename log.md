@@ -25,10 +25,32 @@
 ### Day 2: November 21th , 2019
 
 
-**Today's Progress**: 
+**Today's Progress**: Worked on  some c++ homework for OOP244 @ SENECA
 
 **Thoughts:** 
 
 **Link to work:** []()
 
 
+
+### Day 3: November 21th , 2019
+
+
+**Today's Progress**: Worked on  some c++ homework for OOP244 @ SENECA
+
+**Thoughts:** 
+
+**Link to work:** []()
+
+
+
+
+
+### Day 4: November 21th , 2019
+
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** []()
