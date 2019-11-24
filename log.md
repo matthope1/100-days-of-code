@@ -49,7 +49,7 @@
 ### Day 4: November 23 , 2019
 
 
-**Today's Progress**: 
+**Today's Progress**: Worked on  some c++ homework for OOP244 @ SENECA
 
 **Thoughts:** 
 
@@ -60,7 +60,7 @@
 ### Day 4: November 24 , 2019
 
 
-**Today's Progress**: 
+**Today's Progress**: Worked on  some c++ homework for OOP244 @ SENECA
 
 **Thoughts:** 
 
