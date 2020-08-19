@@ -10,7 +10,17 @@
 **Link to work:** []()
 
 
-### Day 0: August 18th , 2020
+### Day 1: August 18th , 2020
+
+
+**Today's Progress**: Learned about css floats and continued working on project 1 for the bootcamp
+
+**Thoughts:** Slow learning day but had fun
+
+**Link to work:** []()
+
+
+### Day 2: August 19th , 2020
 
 
 **Today's Progress**: 
@@ -20,17 +30,7 @@
 **Link to work:** []()
 
 
-### Day 0: August  , 2020
-
-
-**Today's Progress**: 
-
-**Thoughts:** 
-
-**Link to work:** []()
-
-
-### Day 0: August  , 2020
+### Day 3: August  , 2020
 
 
 **Today's Progress**: 
