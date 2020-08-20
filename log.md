@@ -23,6 +23,16 @@
 ### Day 2: August 19th , 2020
 
 
+**Today's Progress**: Learned about responsive design with media queries
+
+**Thoughts:** This part of the bootcamp is still mostly review but it's a great refresher 
+
+**Link to work:** []()
+
+
+### Day 3: August 20th, 2020
+
+
 **Today's Progress**: 
 
 **Thoughts:** 
@@ -30,7 +40,8 @@
 **Link to work:** []()
 
 
-### Day 3: August  , 2020
+
+### Day 4: August  , 2020
 
 
 **Today's Progress**: 
@@ -38,3 +49,28 @@
 **Thoughts:** 
 
 **Link to work:** []()
+
+
+
+### Day 5: August  , 2020
+
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** []()
+
+
+
+
+### Day 6: August  , 2020
+
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** []()
+
+
