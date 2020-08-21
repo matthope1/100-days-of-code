@@ -33,9 +33,9 @@
 ### Day 3: August 20th, 2020
 
 
-**Today's Progress**: 
+**Today's Progress**: Learned about advanced css selectors and navigations
 
-**Thoughts:** 
+**Thoughts:** Still need to pratice using some of the more complex selectors
 
 **Link to work:** []()
 
